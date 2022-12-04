@@ -9,3 +9,5 @@ It includes all the important sections a website should have, starting with the 
 JavaSCript code was implemented mostly to make my website optimized for Safari users so the scroll animation would work, some if it is a copied code I found online.
 
 Feel free to take a sneak peek at my code, since it's built with plain css and html, it doesn't require any framework knowledge to be understandable.
+
+the link to the website: https://uroszikic.github.io/Omnifood-repository/
